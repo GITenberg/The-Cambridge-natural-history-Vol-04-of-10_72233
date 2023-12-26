@@ -1,0 +1,82 @@
+_repo: The-Cambridge-natural-history-Vol-04-of-10_72233
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Smith, Geoffrey
+    alias: Smith, Geoffrey Watkins
+    birthdate: 1881
+    deathdate: 1916
+    gutenberg_agent_id: '56591'
+    url: http://www.gutenberg.org/2009/agents/56591
+  - agent_name: Thompson, D'Arcy Wentworth
+    alias: Thompson, D'Arcy Wentworth, Sir
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '48253'
+    url: http://www.gutenberg.org/2009/agents/48253
+  - agent_name: Warburton, Cecil
+    alias: Warburton, C. (Cecil)
+    birthdate: 1854
+    deathdate: 1958
+    gutenberg_agent_id: '42786'
+    url: http://www.gutenberg.org/2009/agents/42786
+    wikipedia: https://en.wikipedia.org/wiki/Cecil_Warburton
+  - agent_name: Weldon, Walter Frank Raphael
+    aliases:
+    - Weldon, Raphael
+    - Weldon, W. F. R. (Walter Frank Raphael)
+    birthdate: 1860
+    deathdate: 1906
+    gutenberg_agent_id: '56605'
+    url: http://www.gutenberg.org/2009/agents/56605
+    wikipedia: https://en.wikipedia.org/wiki/Raphael_Weldon
+  - agent_name: Woods, Henry
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '56606'
+    url: http://www.gutenberg.org/2009/agents/56606
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Woods_(geologist)
+  editors:
+  - agent_name: Harmer, S. F. (Sidney Frederic)
+    aliases:
+    - Harmer, Sidney Frederic, Sir
+    - Harmer, Sydney Frederic
+    birthdate: 1862
+    deathdate: 1950
+    gutenberg_agent_id: '56324'
+    url: http://www.gutenberg.org/2009/agents/56324
+    wikipedia: https://en.wikipedia.org/wiki/Sidney_Frederic_Harmer
+  - agent_name: Shipley, A. E. (Arthur Everett), Sir
+    alias: Shipley, Arthur Everett, Sir
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '44635'
+    url: http://www.gutenberg.org/2009/agents/44635
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Shipley
+description: ''
+gutenberg_issued: '2023-11-26'
+identifiers:
+  gutenberg: '72233'
+language: en
+pgterms:marc904: https://archive.org/details/cambridgenatural04harm
+pgterms:marc905: 20201219035233harmer
+pgterms:marc906: '1909'
+pgterms:marc907: gb
+production_note: Richard Tonsing, Peter Becker, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Crustacea, by Geoffrey Smith and W.F.R. Weldon -- Trilobites, by
+  Henry Woods -- Introduction to Arachnida, and king-crabs, by A.E. Shipley -- Eurypterida,
+  by Henry Woods -- Scorpions, spiders, mites, ticks, etc., by Cecil Warburton --
+  Tardigrada (water-bears) by A.E. Shipley -- Pentastomida, by A.E. Shipley -- Pycnogonida,
+  by D'Arcy W. Thompson.
+title: The Cambridge natural history, Vol. 04 (of 10)
+url: http://www.gutenberg.org/ebooks/72233
